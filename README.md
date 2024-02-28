@@ -1,4 +1,4 @@
-# Bike Sharing Linear Regression Assignment
+# Surprise Housing Advanced Regression Assignment
 A US based housing company "Surprise Housing" wants to enter Australian market. It has collected housing sales data and wants to perform data analytics to undertand the features which affect the sales of houses in Australia.
 
 ## Table of Contents

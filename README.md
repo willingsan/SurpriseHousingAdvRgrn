@@ -11,7 +11,7 @@ A US based housing company "Surprise Housing" wants to enter Australian market. 
 
 ## General Information
 
-Surprise Housing, A US based housing company, has decided to enter Australian market. The management wants to reposition themselves such that they can buy houses at below their fair price and then sell them at a premium later on.
+Surprise Housing, A US based housing company, has decided to enter Australian market. The management wants to reposition themselves such that they can buy houses at below their fair prices and then sell them at a premium later on.
 
 ## Technologies Used
 	- Python - version 3.11.5
